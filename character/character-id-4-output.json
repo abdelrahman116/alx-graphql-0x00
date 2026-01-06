@@ -1,11 +1,94 @@
 {
   "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Campaign Manager Morty"
+        },
+        {
+          "id": "62",
+          "name": "Canklanker Thom"
+        },
+        {
+          "id": "63",
+          "name": "Centaur"
+        },
+        {
+          "id": "64",
+          "name": "Chris"
+        },
+        {
+          "id": "65",
+          "name": "Chris"
+        },
+        {
+          "id": "66",
+          "name": "Coach Feratu (Balik Alistane)"
+        },
+        {
+          "id": "67",
+          "name": "Collector"
+        },
+        {
+          "id": "68",
+          "name": "Colossus"
+        },
+        {
+          "id": "69",
+          "name": "Commander Rick"
+        },
+        {
+          "id": "70",
+          "name": "Concerto"
+        },
+        {
+          "id": "71",
+          "name": "Conroy"
+        },
+        {
+          "id": "72",
+          "name": "Cool Rick"
+        },
+        {
+          "id": "73",
+          "name": "Cop Morty"
+        },
+        {
+          "id": "74",
+          "name": "Cop Rick"
+        },
+        {
+          "id": "75",
+          "name": "Courier Flap"
+        },
+        {
+          "id": "76",
+          "name": "Cousin Nicky"
+        },
+        {
+          "id": "77",
+          "name": "Cowboy Morty"
+        },
+        {
+          "id": "78",
+          "name": "Cowboy Rick"
+        },
+        {
+          "id": "79",
+          "name": "Crab Spider"
+        },
+        {
+          "id": "80",
+          "name": "Creepy Little Girl"
+        }
+      ]
+    },
     "character": {
       "id": "4",
       "name": "Beth Smith",
       "status": "Alive",
       "species": "Human",
-      "type": "",
       "gender": "Female"
     }
   }

@@ -1,10 +1,16 @@
-query GetCharacter($id: ID!) {
-  character(id: $id) {
+query {
+  characters(page: 2) {
+    results {
+      id
+      name
+    }
+  }
+
+  character(id: 2) {
     id
     name
     status
     species
-        type
-        gender
+    gender
   }
 }
