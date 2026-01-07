@@ -1,0 +1,9 @@
+query GetCharacter($Int: Int){
+  characters(page: $Int) {
+    results {
+      id
+      name
+    }
+  }
+
+}
